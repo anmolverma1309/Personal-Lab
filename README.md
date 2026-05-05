@@ -13,7 +13,7 @@ Checkout the live version at [anmollll//.vercel.app](https://anmol///.vercel.app
 - **Utilities**: DREI
 - **Animations**: GSAP
 - **State Management**: Zustand
-- **Styling**: Tailwind CSS
+- **Styling**: Tailwind CSS 
 
 ---
 Built with ❤️ by Anmol Verma.

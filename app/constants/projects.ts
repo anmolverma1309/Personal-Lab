@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
     url: 'https://drop2life-opensause.vercel.app/',
   },
   {
-    title: 'SmartAgriSense',
+    title: 'MedChain',
     date: 'Dec 2025',
     subtext: 'AI-powered precision agriculture platform that provides real-time crop health monitoring, pest detection, and yield prediction using satellite imagery and IoT sensor data.',
     url: 'https://smartagriprototype.vercel.app/',

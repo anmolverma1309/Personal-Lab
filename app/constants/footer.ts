@@ -16,7 +16,7 @@ export const FOOTER_LINKS: FooterLink[] = [
   {
     name: 'Instagram',
     hoverText: '@dev.anmolv',
-    icon: 'icons/instagram.svg',
+    icon: 'icons/instagram.svg', 
     url: 'https://www.instagram.com/a_anmol_verma/',
   },
   {

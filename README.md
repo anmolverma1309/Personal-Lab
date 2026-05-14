@@ -16,4 +16,4 @@ Checkout the live version at [anmollll//.vercel.app](https://anmol///.vercel.app
 - **Styling**: Tailwind CSS 
 
 ---
-Built with ❤️ by Anmol Verma.
+Built with ❤️ by Anmol Verma. 
